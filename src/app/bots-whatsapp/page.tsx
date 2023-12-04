@@ -22,9 +22,9 @@ export default function Page() {
   <GenericBanner
     title="Creación de Bots de WhatsApp"
     description="Llevaremos la automatización de tu negocio a través de WhatsApp."
-    imageUrl="/images/bot.jpg"
+    imageUrl="/images/bot-whatsapp.webp"
   />
-  <div className="p-8 text-center">
+  <div className="p-8 text-center bg-black">
     <h1 className="text-4xl text-blue-900 font-semibold mb-6">
       ¿Por qué elegirme para desarrollar tu bot de WhatsApp?
     </h1>

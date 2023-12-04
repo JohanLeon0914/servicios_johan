@@ -27,7 +27,7 @@ export default function page() {
         description="Llevaremos tu negocio a un nuevo nivel."
         imageUrl="/images/web.jpg"
       />
-      <div className="p-8 text-center">
+      <div className="p-8 text-center bg-black">
         <h1 className="text-4xl text-blue-900 font-semibold mb-6">
           ¿Por qué elegirme para crear tu pagina web?
         </h1>

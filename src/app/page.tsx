@@ -4,7 +4,7 @@ import Skills from './components/Skills'
 
 export default function Home() {
   return (
-    <div>
+    <div className='bg-black'>
       <Banner/>
       <Skills/>
     </div>

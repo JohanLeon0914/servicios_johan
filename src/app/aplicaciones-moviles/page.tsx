@@ -24,11 +24,11 @@ export default function Page() {
         description="Llevaremos tu negocio a la palma de la mano."
         imageUrl="/images/mobile.jpg"
       />
-      <div className="p-8 text-center">
+      <div className="p-8 text-center bg-black">
         <h1 className="text-4xl text-blue-900 font-semibold mb-6">
           ¿Por qué elegirme para desarrollar tu aplicación móvil?
         </h1>
-        <p className="text-lg text-gray-200 leading-relaxed mb-8">
+        <p className="text-lg text-gray-400 leading-relaxed mb-8">
           Si deseas crear una aplicación móvil para que todos tus clientes la
           tengan al alcance en sus dispositivos móviles, puedo
           ayudarte con eso. ¡No dudes en contactarme! 👇 Estaré encantado de

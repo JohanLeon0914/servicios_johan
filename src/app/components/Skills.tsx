@@ -19,7 +19,7 @@ const Skills: React.FC = () => {
     },
     {
       title: "Bots de WhatsApp con Inteligencia Artificial (IA)",
-      image: "/images/bot.jpg",
+      image: "/images/bot-whatsapp.webp",
       description:
         "Potencia la comunicación de tu empresa con un bot de WhatsApp impulsado por inteligencia artificial. Creo soluciones de chatbot personalizadas que automatizan respuestas, proporcionan atención al cliente las 24 horas del día y mejoran la eficiencia operativa. Impulsa tu negocio con tecnología de vanguardia.",
       link: "/bots-whatsapp",
