@@ -29,7 +29,7 @@ export default function page() {
       />
       <div className="p-8 text-center bg-black">
         <h1 className="text-4xl text-blue-900 font-semibold mb-6">
-          ¿Por qué elegirme para crear tu sitios web?
+          ¿Por qué elegirme para crear tu sitio web?
         </h1>
         <p className="text-lg text-gray-200 leading-relaxed mb-8">
           Si estás interesado en ponerte en contacto conmigo para iniciar este
