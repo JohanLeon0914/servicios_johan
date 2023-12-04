@@ -5,6 +5,11 @@ import GenericBanner from "../components/GenericBanner";
 export default function page() {
   const jobItems = [
     {
+      title: "Comercio electrónico",
+      image: "/images/ecommerce.jpg",
+      link: "https://ecommerce-next14.vercel.app",
+    },
+    {
       title: "Netflix Clon",
       image: "/images/netflix.png",
       link: "https://netflix-clon-dun.vercel.app",
@@ -14,26 +19,21 @@ export default function page() {
       image: "/images/chatbot-ia.png",
       link: "https://chat-ai-kappa-one.vercel.app",
     },
-    {
-      title: "Pagina web para leer novelas",
-      image: "/images/pandora.png",
-      link: "https://pandora-web-phi.vercel.app",
-    },
   ];
   return (
     <div>
       <GenericBanner
-        title="Creación de Páginas Web"
+        title="Creación de Sitios Web"
         description="Llevaremos tu negocio a un nuevo nivel."
         imageUrl="/images/web.jpg"
       />
       <div className="p-8 text-center bg-black">
         <h1 className="text-4xl text-blue-900 font-semibold mb-6">
-          ¿Por qué elegirme para crear tu pagina web?
+          ¿Por qué elegirme para crear tu sitios web?
         </h1>
         <p className="text-lg text-gray-200 leading-relaxed mb-8">
           Si estás interesado en ponerte en contacto conmigo para iniciar este
-          emocionante proyecto de crear una página web para tu negocio o
+          emocionante proyecto de crear un sitio web para tu negocio o
           emprendimiento, ¡no dudes en hacerlo! 👇 Estaré encantado de
           comunicarme contigo lo más pronto posible. 😊
         </p>
