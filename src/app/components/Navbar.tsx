@@ -103,7 +103,7 @@ function Navbar() {
                 <li onClick={() => setNav(false)} className="py-4 text-sm"> Inicio </li>
               </Link>
               <Link href="/paginas-web">
-                <li onClick={() => setNav(false)} className="py-4 text-sm"> Páginas web </li>
+                <li onClick={() => setNav(false)} className="py-4 text-sm"> Sitios web </li>
               </Link>
               <Link href="/aplicaciones-moviles">
                 <li onClick={() => setNav(false)} className="py-4 text-sm"> Aplicaciones móviles </li>

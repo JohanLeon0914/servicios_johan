@@ -15,8 +15,8 @@ const Banner = () => {
             className="rounded-full w-32 h-32 mx-auto mb-4"
           />
           <h1 className="text-white text-2xl font-semibold">Johan Alberto León Serrano</h1>
-          <p className="text-white text-md">Desarrollador de páginas web, aplicaciones móviles y bots de WhatsApp</p>
-          <p className="text-white text-md"><b>Teléfono:</b> +57 3024725476</p>
+          <p className="text-white text-md">Desarrollador de sitios web, aplicaciones móviles y bots de WhatsApp</p>
+          <p className="text-white text-md"><b>Teléfono:</b> +57 3006101322</p>
           <p className="text-white text-md"><b>Correo:</b> johanleon991@gmail.com</p>
         </div>
       </div>

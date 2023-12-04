@@ -34,7 +34,7 @@ function Contact() {
         formulario.user_asunto = "Creación de bot de WhatsApp";
         break;
       case "paginas-web":
-        formulario.user_asunto = "Creación de página web";
+        formulario.user_asunto = "Creación de sitios web";
         break;
       default:
         formulario.user_asunto = "";

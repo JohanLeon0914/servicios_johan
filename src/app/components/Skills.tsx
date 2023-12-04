@@ -4,7 +4,7 @@ import React from "react";
 const Skills: React.FC = () => {
   const skillItems = [
     {
-      title: "Creación de Páginas Web",
+      title: "Creación de Sitios Web",
       image: "/images/web.jpg",
       description:
         "Ofrezco soluciones de diseño y desarrollo de sitios web personalizados para empresas, emprendedores y proyectos personales. Desde sitios web corporativos hasta portafolios creativos, estoy listo para dar vida a tu visión en línea.",
