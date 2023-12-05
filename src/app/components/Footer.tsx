@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="text-center">
           <h2 className="text-2xl font-semibold">Johan Alberto León Serrano</h2>
           <p>Desarrollador de páginas web, aplicaciones móviles y bots de WhatsApp</p>
-          <p>Teléfono: +57 3024725476</p>
+          <p>Teléfono: +57 3006101322</p>
           <p>Correo: johanleon991@gmail.com</p>
         </div>
         <div className="flex justify-center mt-4">
